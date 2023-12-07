@@ -2,14 +2,14 @@
 
 > [!TIP]
 What is Laravel
-> [^1] Laravel is a web application framework with expressive, elegant syntax.
-> [^2] A web framework provides a structure and starting point for creating your application, allowing you to focus on creating something amazing while you sweat the details.
+>  Laravel is a web application framework with expressive, elegant syntax.
+>  A web framework provides a structure and starting point for creating your application, allowing you to focus on creating something amazing while you sweat the details.
 
 > [!IMPORTANT]
 What is Vue js!
-> [^1] Vue is a JavaScript framework for building user interfaces.
-> [^2] It builds on top of standard HTML, CSS, and JavaScript.
-> [^3] It Helps you efficiently develop user interfaces, be they simple or complex.
+>  Vue is a JavaScript framework for building user interfaces.
+>  It builds on top of standard HTML, CSS, and JavaScript.
+>  It Helps you efficiently develop user interfaces, be they simple or complex.
 
 
 ### Step 1: Create New Laravel Project
