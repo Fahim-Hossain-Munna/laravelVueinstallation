@@ -1,6 +1,6 @@
 ## VUE.js with laravel Bootstrap Intregation 
 
-## install bootstrap in the project of vue with laravel.
+### Step 1 : install bootstrap in the project of vue with laravel.
 
 ```
 npm install bootstrap
@@ -8,7 +8,7 @@ npm install bootstrap-vue
 
 ```
 
-## Then, open the main.js/app.js file on resource folder with your code editor. Import bootstrap
+### Step 2 : Then, open the main.js/app.js file on resource folder with your code editor. Import bootstrap
 
 ```
 import { createApp } from 'vue'
@@ -19,7 +19,7 @@ createApp(App).mount('#app')
 
 ```
 
-## Now run the project. Use the following command to run the project.
+### Step 3 : Now run the project. Use the following command to run the project.
 
 ```
 npm run dev
